@@ -1,0 +1,3 @@
+sent = "%s is my brother"
+sent%("sonu")
+print(sent);
